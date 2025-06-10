@@ -1,2 +1,2 @@
-# personal-finance-app
+# Personal Finance App
 Categorizes and visualizes spending habits
